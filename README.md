@@ -1,3 +1,3 @@
 # demo
 learn about github
-Author - Pooja Chothani
+Author - Pooja (Laurier)
